@@ -41,17 +41,9 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 
 ### 📷 User Interface
 
-![Signup.png](https://github.com/Nathanya-A/Fitness_Tracker_platform/blob/master/Signup.PNG))
-
-<p align="center">
-  <img src="Signup.png" width="600" alt="Dashboard Screenshot">
-</p>
-<p align="center">
-  <img src="Dashboard.png" width="600" alt="Dashboard Screenshot">
-</p>
-<p align="center">
-  <img src="Workout.png" width="600" alt="Dashboard Screenshot">
-</p>
+![Signup.png](https://github.com/Nathanya-A/Fitness_Tracker_platform/blob/master/Signup.PNG)
+![Dashboard.png](https://github.com/Nathanya-A/Fitness_Tracker_platform/blob/master/Dashboard.PNG)
+![Workoutpng](https://github.com/Nathanya-A/Fitness_Tracker_platform/blob/master/Workout.PNG)
 
 ---
 
