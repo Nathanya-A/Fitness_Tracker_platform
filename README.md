@@ -55,7 +55,7 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 
 ---
 
-### 📷 Screenshots
+### 📷 User Interface
 <!-- Add your own images -->
 <p align="center">
   <img src="screenshots/dashboard.png" width="600" alt="Dashboard Screenshot">
@@ -73,8 +73,8 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 
 #### Clone the Repo
 ```bash
-git clone https://github.com/your-username/mern-fitness-tracker.git
-cd mern-fitness-tracker
+git clone https://github.com/your-username/Fitness_Tracker_platform.git
+cd Fitness_Tracker_platform
 ```
 #### Setup Environment for MERN Stack
 - Install Node.js
