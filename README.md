@@ -53,7 +53,7 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 - Node.js (v18+ recommended)
 - npm or yarn
 - MongoDB Atlas account (or local MongoDB)
-- React.ja
+- React.js
 
 #### Clone the Repo
 ```bash
