@@ -41,6 +41,8 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 
 ### 📷 User Interface
 
+![Alt text](Signup.png)
+
 <p align="center">
   <img src="Signup.png" width="600" alt="Dashboard Screenshot">
 </p>
