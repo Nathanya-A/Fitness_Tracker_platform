@@ -3,22 +3,6 @@
 A full-stack web application that helps users **plan, track, and analyze their daily workouts**.  
 Built with the **MERN stack**—MongoDB, Express.js, React, and Node.js.
 
----
-
-### 📌 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [Deployment](#deployment)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
----
-
 ### ✨ Features
 - **User Authentication**: Secure sign-up/login with JWT and bcrypt password hashing.
 - **Workout Management**: Add exercises, sets, reps, and calories burned.
@@ -56,9 +40,15 @@ React Client  <---->  Express REST API  <---->  MongoDB Database
 ---
 
 ### 📷 User Interface
-<!-- Add your own images -->
+
 <p align="center">
-  <img src="screenshots/dashboard.png" width="600" alt="Dashboard Screenshot">
+  <img src="Signup.png" width="600" alt="Dashboard Screenshot">
+</p>
+<p align="center">
+  <img src="Dashboard.png" width="600" alt="Dashboard Screenshot">
+</p>
+<p align="center">
+  <img src="Workout.png" width="600" alt="Dashboard Screenshot">
 </p>
 
 ---
@@ -92,7 +82,9 @@ cd Fitness_Tracker_platform
     npm start
     npm install styled-components @mui/material @mui/lab @mui/icons-material @emotion/styled @emotion/react axios react-router-dom react-redux redux-persist @reduxjs/toolkit dayjs @mui/x-charts @mui/x-date-pickers
   ```
-#### 🗄️ Database Management
+---
+
+### 🗄️ Database Management
 
 The project uses **MongoDB Atlas** (cloud-hosted) for scalability and easy deployment.  
 You can also run a **local MongoDB instance** if preferred.
@@ -121,7 +113,9 @@ mongodb+srv://<username_db>:<password_db>@cluster1.acxeilv.mongodb.net/?retryWri
 ```
 3. Replace `<username_db>` and `<password_db>` with the database user credentials you created.
 
-#### 🔑 Environment Variables
+---
+
+### 🔑 Environment Variables
 Create a `.env` file in the server directory with
 ```bash
 PORT = 8080
@@ -143,10 +137,14 @@ The app will be locally available at:
 - Backend: http://localhost:8080
 - Frontend: http://localhost:3000
 
+---
+
 ### 🌐 Deployment
 - **Frontend:** [Netlify](https://www.netlify.com/)
 - **Backend:** [Render](https://render.com/) or [Heroku](https://www.heroku.com/)
 - Set environment variables in your hosting dashboard.
+
+--- 
 
 ### 🔮 Future Enhancements
 - Built-in workout **tutorials** with step-by-step guidance
